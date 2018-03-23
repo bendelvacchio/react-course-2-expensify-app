@@ -6,3 +6,4 @@ public/styles.css.map
 public/dist/
 .vscode/
 yarn-error.log
+.env.*
